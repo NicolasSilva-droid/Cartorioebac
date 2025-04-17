@@ -149,7 +149,7 @@ int main()
 		    return 0;
 		    break;
 			
-			default:
+		    default:
 		    printf("Essa opcão não está disponivel!\n");
 		    system("pause");
 		    break;
